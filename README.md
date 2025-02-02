@@ -1,1 +1,1 @@
-"# Simple-QR-Code-Generator" 
+"# Read the uploaded readme file above" 
